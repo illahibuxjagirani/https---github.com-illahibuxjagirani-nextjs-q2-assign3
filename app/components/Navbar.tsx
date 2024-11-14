@@ -1,7 +1,7 @@
 
 export default function Navbar(){
   return(
-    <div className="h-[92px] py-4 px-[220px] bg-[#043873] flex justify-between items-center sticky top-0">
+    <div className="h-[92px] py-4 px-[220px] bg-[#3693fe] flex justify-between items-center sticky top-0 z-10">
 
       {/* left div */}
       <div>
