@@ -1,5 +1,6 @@
 import Customize from "./components/Customize";
 import Extension from "./components/Extension";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Project from "./components/Project";
 import Sponsors from "./components/Sponsors";
@@ -16,6 +17,7 @@ export default function Home() {
      <Customize/>
      <Task/>
      <Sponsors />
+     <Footer/>
     </div>
   );
 }
